@@ -1,7 +1,5 @@
 ## Demonstrating main differences between Vue, Angular and React
 
-## Demonstrating main differences between Vue, Angular and React
-
 1. Creating a directory and a project with:
 > mkdir [name] && cd [name]
 > yarn init
