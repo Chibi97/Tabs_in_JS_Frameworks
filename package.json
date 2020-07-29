@@ -1,0 +1,20 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Olja Ivkovic",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "start:all": "concurrently \"yarn start:react\" \"yarn start:vue\" \"yarn start:ng\"",
+    "start:react": "yarn workspace @example/react-tabs start",
+    "start:vue": "yarn workspace @example/vue-tabs serve",
+    "start:ng": "yarn workspace @example/angular-tabs start"
+  },
+  "dependencies": {
+    "concurrently": "^5.2.0"
+  }
+}

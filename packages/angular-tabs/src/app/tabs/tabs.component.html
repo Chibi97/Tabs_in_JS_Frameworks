@@ -1,0 +1,9 @@
+<div class="tabs">
+  <ul>
+    <li [ngClass]="{'is-active': isActiveId(item.idx)}" *ngFor="let item of labels">
+      <a (click)="setActiveTab(item.idx)" href="#">{{item.label}}</a>
+    </li>
+  </ul>
+</div>
+
+<ng-container *ngTemplateOutlet="getActiveTabContent()"></ng-container>
