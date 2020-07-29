@@ -48,7 +48,7 @@
 8. From the packages folder, install `Bulma`
 > yarn add -W bulma
 
-9. Create .env file insde of React pr oject root and add this:
+9. Create .env file insde of React project root and add this:
 > SKIP_PREFLIGHT_CHECK=true
 
 10. Modify `package.json` of every project of the mono-repo like this:
