@@ -9,6 +9,7 @@
 
 3. Creating Vue and React apps with the help of npx command
 > npx vue create [name]
+
 > npx create-react-app [name]
 
 4. Angular must be installed locally:
@@ -45,7 +46,7 @@
 ```
 
 8. From the packages folder, install `Bulma`
-> yarn add- W bulma
+> yarn add -W bulma
 
 9. Create .env file insde of React pr oject root and add this:
 > SKIP_PREFLIGHT_CHECK=true
