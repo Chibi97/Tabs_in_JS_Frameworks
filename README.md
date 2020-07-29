@@ -53,5 +53,7 @@
 
 10. Modify `package.json` of every project of the mono-repo like this:
 > name: @project-name/vue-app-name
+
 > name: @project-name/react-app-name
+
 > name: @project-name/angular-app-name
