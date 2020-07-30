@@ -52,8 +52,8 @@
 > SKIP_PREFLIGHT_CHECK=true
 
 10. Modify `package.json` of every project of the mono-repo like `@project-name/app-name` :
-> name: @example/vue-tabs
+> "name": "@example/vue-tabs"
 
-> name: @example/react-tabs
+> "name": "@example/react-tabs"
 
-> name: @example/angular-tabs
+> "name": "@example/angular-tabs"
