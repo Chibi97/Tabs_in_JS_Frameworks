@@ -57,3 +57,30 @@
 > "name": "@example/react-tabs"
 
 > "name": "@example/angular-tabs"
+
+### For further reading:
+
+#### Vue
+
+1. https://www.smashingmagazine.com/2018/02/jquery-vue-javascript/
+2. https://vuejs.org/v2/guide/comparison.html
+3. https://vuejs.org/v2/guide/instance.html#Lifecycle-Diagram
+4. https://medium.com/binarcode/understanding-scoped-slots-in-vue-js-db5315a42391
+5. https://dev.to/alexmourer/sharing-data-between-components-invuejs-48me
+4. https://frontendmasters.com/courses/vue/ (a course)
+
+#### Angular
+
+1. https://angular.io/guide/inputs-outputs
+2. https://ultimatecourses.com/blog/angular-decorators
+3. https://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/
+4. https://ultimatecourses.com/blog/angular-dependency-injection
+5. https://www.pluralsight.com/courses/angular-fundamentals  (a course)
+
+#### React
+
+1. https://reactjs.org/docs/hooks-intro.html
+2. https://reactjs.org/docs/hooks-reference.html
+3. https://reactjs.org/docs/introducing-jsx.html
+4. https://dev.to/yazanaabed/five-ways-to-advanced-react-patterns-2bai
+5. https://frontendmasters.com/courses/complete-react-v5/ (a course)
